@@ -1,0 +1,11 @@
+.result-area {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.test{
+    color: red;
+}
